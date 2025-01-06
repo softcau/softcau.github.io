@@ -1,0 +1,4 @@
+FDMA
+TDMA
+CDMA
+OFDM
