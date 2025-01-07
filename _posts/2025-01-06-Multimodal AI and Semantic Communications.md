@@ -1,3 +1,8 @@
+---
+layout: single
+title:  "Mutimodal AI and Semantic Communications"
+---
+
 Multimodal AI(멀티모달 AI)   
 멀티모달 AI는 여러 가지 유형의 데이터를 활용하여 인공지능 시스템을 구축하는 접근 방식을 의미한다.
 텍스트 데이터, 이미지, 음성 등 다양한 유형의 데이터를 복합적으로 이해하고 처리하여 풍부한 작업을 할 수 있도록 한다.
